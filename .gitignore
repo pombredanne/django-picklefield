@@ -4,4 +4,5 @@
 /dist
 /temp
 /src/django_picklefield.egg-info
-
+.tox
+.coverage
